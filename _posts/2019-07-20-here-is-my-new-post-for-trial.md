@@ -3,15 +3,22 @@ layout: post
 title: ARTICLE
 date: 2026-06-13T16:50:00.000Z
 image: ../uploads/article-background-1.jpg
-caption: Cobbles
+title_color: "#046a7b"
+caption: thonchained
 ---
-**Please do not edit this post.** You should create a new post and then delete this sample when you are ready. Do not delete this post until you have created at least one of your own. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. Only the first paragraph will appear on the home page.
+**Welcome to real estate in Africa.**
 
-The `image` is optional and you should enter the path to it in the metadata above.
+But there's a new chapter being written. One where ownership isn't stored in dusty filing cabinets or controlled by gatekeepers. One where a $500,000 building can be owned by 500 people investing $1,000 each. One where a teacher in Abuja can buy shares in a Lagos commercial property from her phone in two minutes.
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+This isn't science fiction.
 
-![](../uploads/article-background-1.jpg "From Land Titles to Tokens: The Digital Revolution Property Owners Can No Longer Ignore")
+In 2024, Lagos State began overhauling its land registry system with blockchain technology to combat fraud and enhance transparency, with the rollout continuing through 2025.
+
+The question isn't **if** blockchain will change African real estate.
+
+It’s **how fast** you can understand it before you’re left behind.
+
+![From Land Titles to Tokens: The Digital Revolution Property Owners Can No Longer Ignore](../uploads/article-background-1.jpg "From Land Titles to Tokens: The Digital Revolution Property Owners Can No Longer Ignore")
 
 <!--StartFragment-->
 
@@ -316,9 +323,9 @@ And it's happening in Africa, right now.
 
 ***Stay informed. Stay ahead. Stay on-chained.***
 
-***Join SMC Tutors Community:** <https://linktr.ee/smctutors>*
+**\*Join SMC Tutors Community:** <https://linktr.ee/smctutors>*
 
-***Follow The On-chained:** <https://x.com/theonchained>*
+**\*Follow The On-chained:** <https://x.com/theonchained>*
 
 <!--EndFragment-->
 
