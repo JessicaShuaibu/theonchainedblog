@@ -3,7 +3,7 @@ layout: post
 title: What Is Real-World Asset Tokenization?
 date: 2026-06-13T16:50:00.000Z
 image: ../uploads/article-background-1.jpg
-title_color: "#046a7b"
+title_color: "#ffffff"
 caption: thonchained
 ---
 **Welcome to real estate in Africa.**
@@ -18,7 +18,7 @@ The question isn't **if** blockchain will change African real estate.
 
 It’s **how fast** you can understand it before you’re left behind.
 
-![From Land Titles to Tokens: The Digital Revolution Property Owners Can No Longer Ignore](../uploads/article-background-1.jpg "From Land Titles to Tokens: The Digital Revolution Property Owners Can No Longer Ignore")
+![](../uploads/article-background-1.jpg "From Land Titles to Tokens: The Digital Revolution Property Owners Can No Longer Ignore")
 
 <!--StartFragment-->
 
