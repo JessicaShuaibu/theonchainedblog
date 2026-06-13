@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Here is a blog post sample
-date: 2020-06-24 17:50
+title: ARTICLE
+date: 2026-06-13T16:50:00.000Z
 image: ""
 caption: Cobbles
 ---
