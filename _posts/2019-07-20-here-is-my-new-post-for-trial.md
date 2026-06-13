@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ARTICLE
+title: What Is Real-World Asset Tokenization?
 date: 2026-06-13T16:50:00.000Z
 image: ../uploads/article-background-1.jpg
 title_color: "#046a7b"
