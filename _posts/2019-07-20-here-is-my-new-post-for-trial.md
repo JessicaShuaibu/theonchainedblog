@@ -18,7 +18,7 @@ The question isn't **if** blockchain will change African real estate.
 
 It’s **how fast** you can understand it before you’re left behind.
 
-![](../uploads/article-background-1.jpg "From Land Titles to Tokens: The Digital Revolution Property Owners Can No Longer Ignore")
+![From Land Titles to Tokens: The Digital Revolution Property Owners Can No Longer Ignore](../uploads/article-background-1.jpg "From Land Titles to Tokens: The Digital Revolution Property Owners Can No Longer Ignore")
 
 <!--StartFragment-->
 
