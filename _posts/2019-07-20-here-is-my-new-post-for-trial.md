@@ -2,7 +2,7 @@
 layout: post
 title: ARTICLE
 date: 2026-06-13T16:50:00.000Z
-image: ""
+image: ../uploads/article-background-1.jpg
 caption: Cobbles
 ---
 **Please do not edit this post.** You should create a new post and then delete this sample when you are ready. Do not delete this post until you have created at least one of your own. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. Only the first paragraph will appear on the home page.
